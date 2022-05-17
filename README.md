@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Java Developer</h3>
 
-- 🌱 I’m currently working on a company
+- I’m currently working on a company
 
 - 📫 How to reach me **furkanuguz3458@gmail.com**
 
